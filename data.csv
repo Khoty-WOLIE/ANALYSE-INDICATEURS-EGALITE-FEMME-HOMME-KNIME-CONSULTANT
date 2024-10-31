@@ -1,0 +1,257 @@
+"Ancienneté_an","Distance_domicile_Travail","Service","Work_accident","Niveau de satisfaction","Contrat","Durée hebdo","Salaire_base_mensuel","%variable_moyen","Augmentation","Promotion","Sexe","Etat_Civil","Enfants","age_salarié"
+"20 et 25 ans",69,"Consultant","Non",60,"CDI",35,"9k - 1k","10 - 15",0,0,"F","Marié",3,47
+"10 et 15 ans",32,"Consultant","Non",39,"CDI",35,"4k - 5k","35 - 40",0,1,"H","Célibataire",0,68
+"10 et 15 ans",68,"RH","Oui",62,"CDI",35,"3k - 4k","25 - 30",1,1,"F",,1,53
+"20 et 25 ans",59,"Consultant","Non",98,"CDI",35,"1k - 2k","15 - 20",1,0,"H","Marié",3,59
+"2 et 5 ans",15,"R&D","Oui",81,"CDD",35,"2k - 3k","15 - 20",1,0,"H",,0,40
+"10 et 15 ans",6,"Commercial","Non",47,"CDI",35,"5k - 6k","30 - 35",0,0,"H",,0,54
+"15 et 20 ans",56,"Marketing","Oui",34,"CDI",35,"9k - 1k","25 - 30",0,1,"H","Célibataire",0,47
+"5 et 10 ans",43,"RH","Oui",48,"CDI",24,"3k - 4k","35 - 40",0,1,"F",,3,68
+"5 et 10 ans",60,"Marketing","Non",25,"CDI",24,"5k - 6k","35 - 40",0,1,"H","Célibataire",2,37
+"15 et 20 ans",69,"Compta Finances","Oui",89,"CDI",35,"2k - 3k","30 - 35",0,0,"H",,2,44
+"5 et 10 ans",70,"RH","Oui",7,"CDI",35,"5k - 6k","5 - 10",1,1,"F",,2,68
+"20 et 25 ans",53,"Consultant","Non",24,"CDI",35,"7k - 8k","10 - 15",0,1,"F",,3,44
+"20 et 25 ans",64,"Commercial","Non",15,"CDI",24,"5k - 6k","20 - 25",1,1,"F",,3,58
+"20 et 25 ans",8,"R&D","Non",31,"CDI",35,"7k - 8k","25 - 30",0,1,"H","Marié",0,60
+"10 et 15 ans",27,"Commercial","Oui",56,"CDI",35,"6k - 7k","20 - 25",0,1,"H","Célibataire",1,53
+"20 et 25 ans",9,"Marketing","Non",81,"CDI",35,"5k - 6k","20 - 25",1,1,"H","Marié",1,51
+"15 et 20 ans",31,"R&D","Non",35,"CDI",35,"8k - 9k","0 - 5",0,0,"H","Célibataire",2,43
+"2 et 5 ans",15,"Consultant","Oui",60,"CDI",35,"2k - 3k","15 - 20",1,1,"F","Célibataire",3,52
+"25 et plus",58,"Consultant","Non",19,"CDI",35,"3k - 4k","10 - 15",0,0,"F","Célibataire",1,68
+"15 et 20 ans",28,"Compta Finances","Oui",32,"CDI",35,"8k - 9k","10 - 15",0,1,"F","Célibataire",2,68
+"5 et 10 ans",17,"Consultant","Oui",51,"CDI",35,"5k - 6k","30 - 35",1,0,"F","Célibataire",1,51
+"10 et 15 ans",28,"Consultant","Oui",45,"CDI",35,"1k - 2k","25 - 30",0,0,"H",,1,54
+"15 et 20 ans",46,"Commercial","Oui",60,"CDI",35,"4k - 5k","5 - 10",1,1,"F","Marié",0,54
+"5 et 10 ans",44,"R&D","Oui",8,"CDI",35,"9k - 1k","20 - 25",0,1,"H","Célibataire",3,65
+"15 et 20 ans",65,"Marketing","Oui",64,"CDI",35,"7k - 8k","30 - 35",0,1,"H","Célibataire",2,63
+"5 et 10 ans",60,"Compta Finances","Oui",12,"CDI",35,"2k - 3k","10 - 15",1,1,"F","Célibataire",0,36
+"0 et 2 ans",43,"Consultant","Oui",6,"CDD",32,"2k - 3k","20 - 25",,,"F","Célibataire",0,55
+"5 et 10 ans",44,"RH","Oui",88,"CDI",35,"2k - 3k","5 - 10",1,0,"H",,3,68
+"2 et 5 ans",13,"RH","Non",65,"CDI",35,"3k - 4k","15 - 20",0,1,"H","Célibataire",2,37
+"10 et 15 ans",11,"Consultant","Oui",87,"CDI",24,"1k - 2k","10 - 15",1,1,"H","Marié",0,56
+"5 et 10 ans",18,"Commercial","Oui",67,"CDI",35,"3k - 4k","0 - 5",0,1,"F","Marié",2,64
+"20 et 25 ans",38,"Marketing","Oui",70,"CDI",35,"6k - 7k","0 - 5",1,1,"H","Marié",1,53
+"5 et 10 ans",13,"Marketing","Oui",22,"CDI",35,"2k - 3k","20 - 25",1,1,"H","Célibataire",3,36
+"20 et 25 ans",60,"RH","Oui",92,"CDI",35,"3k - 4k","10 - 15",0,1,"H","Célibataire",2,55
+"20 et 25 ans",8,"Consultant","Non",36,"CDI",35,"3k - 4k","35 - 40",0,0,"H","Marié",1,47
+"20 et 25 ans",38,"Consultant","Oui",15,"CDI",28,"1k - 2k","15 - 20",0,1,"H","Célibataire",0,51
+"15 et 20 ans",45,"RH","Non",80,"CDI",35,"5k - 6k","0 - 5",1,0,"H",,1,67
+"15 et 20 ans",64,"Commercial","Non",11,"CDI",35,"9k - 1k","0 - 5",0,0,"H","Marié",2,49
+"5 et 10 ans",67,"Compta Finances","Oui",70,"CDI",35,"7k - 8k","15 - 20",1,1,"F",,1,65
+"2 et 5 ans",26,"RH","Oui",6,"CDI",35,"7k - 8k","0 - 5",0,0,"F","Célibataire",0,44
+"15 et 20 ans",24,"Commercial","Non",80,"CDI",35,"8k - 9k","35 - 40",1,0,"H","Marié",0,62
+"5 et 10 ans",45,"Consultant","Non",95,"CDI",35,"2k - 3k","20 - 25",0,0,"F",,2,32
+"15 et 20 ans",29,"Compta Finances","Non",70,"CDI",35,"8k - 9k","35 - 40",1,1,"H",,3,55
+"15 et 20 ans",43,"Consultant","Non",69,"CDI",35,"1k - 2k","15 - 20",0,0,"H",,0,47
+"15 et 20 ans",42,"Consultant","Oui",90,"CDI",35,"4k - 5k","30 - 35",1,0,"F",,1,50
+"15 et 20 ans",11,"Compta Finances","Oui",56,"CDI",35,"3k - 4k","20 - 25",0,0,"H","Célibataire",2,54
+"0 et 2 ans",42,"Consultant","Non",18,"CDD",35,"3k - 4k","10 - 15",,,"F","Marié",3,51
+"5 et 10 ans",59,"RH","Oui",46,"CDI",35,"4k - 5k","20 - 25",1,0,"H","Marié",1,58
+"0 et 2 ans",67,"Marketing","Non",19,"CDD",35,"1k - 2k","5 - 10",,,"H",,0,42
+"2 et 5 ans",55,"Marketing","Non",67,"CDI",35,"1k - 2k","10 - 15",1,1,"F","Célibataire",3,40
+"5 et 10 ans",46,"R&D","Oui",74,"CDI",35,"9k - 1k","5 - 10",1,1,"F",,1,52
+"20 et 25 ans",37,"Marketing","Non",1,"CDI",24,"6k - 7k","20 - 25",1,1,"H","Célibataire",1,63
+"0 et 2 ans",60,"Commercial","Oui",58,"CDD",35,"3k - 4k","0 - 5",,,"F","Marié",3,51
+"20 et 25 ans",48,"Marketing","Non",81,"CDI",35,"3k - 4k","30 - 35",1,1,"H","Marié",2,53
+"5 et 10 ans",25,"Compta Finances","Non",17,"CDI",35,"1k - 2k","5 - 10",0,1,"H","Marié",3,61
+"2 et 5 ans",40,"R&D","Oui",4,"CDI",35,"6k - 7k","25 - 30",1,0,"F","Marié",1,41
+"0 et 2 ans",17,"Consultant","Oui",24,"CDD",35,"3k - 4k","5 - 10",,,"F","Marié",2,67
+"2 et 5 ans",30,"Consultant","Non",77,"CDI",35,"7k - 8k","35 - 40",1,1,"F","Marié",3,47
+"5 et 10 ans",17,"Consultant","Oui",30,"CDI",24,"1k - 2k","10 - 15",1,1,"H",,0,56
+"5 et 10 ans",9,"Consultant","Oui",51,"CDI",24,"5k - 6k","30 - 35",0,1,"H",,3,59
+"15 et 20 ans",3,"Compta Finances","Non",15,"CDI",35,"1k - 2k","5 - 10",0,1,"H",,1,43
+"10 et 15 ans",31,"Compta Finances","Non",32,"CDI",35,"8k - 9k","10 - 15",0,1,"F",,1,65
+"5 et 10 ans",62,"Consultant","Oui",72,"CDI",35,"9k - 1k","10 - 15",1,1,"H","Marié",1,58
+"20 et 25 ans",47,"Commercial","Oui",86,"CDI",35,"5k - 6k","20 - 25",1,0,"F",,1,45
+"15 et 20 ans",66,"RH","Non",46,"CDI",35,"5k - 6k","20 - 25",1,1,"F",,2,39
+"10 et 15 ans",30,"RH","Oui",1,"CDI",35,"9k - 1k","20 - 25",1,1,"H","Marié",0,36
+"0 et 2 ans",15,"Commercial","Oui",76,"CDD",35,"2k - 3k","25 - 30",,,"F","Célibataire",1,59
+"5 et 10 ans",30,"RH","Non",29,"CDI",35,"6k - 7k","35 - 40",0,1,"H","Célibataire",0,36
+"0 et 2 ans",14,"Marketing","Oui",70,"CDD",35,"2k - 3k","20 - 25",,,"F","Marié",1,56
+"20 et 25 ans",3,"Compta Finances","Oui",65,"CDI",35,"7k - 8k","35 - 40",0,1,"F","Marié",1,67
+"20 et 25 ans",61,"Consultant","Oui",1,"CDI",35,"9k - 1k","0 - 5",1,1,"H","Célibataire",2,52
+"20 et 25 ans",14,"Commercial","Oui",62,"CDI",35,"2k - 3k","10 - 15",0,1,"H","Marié",2,54
+"5 et 10 ans",50,"R&D","Non",93,"CDI",35,"8k - 9k","20 - 25",0,0,"H","Marié",1,39
+"15 et 20 ans",21,"Consultant","Oui",3,"CDI",35,"2k - 3k","0 - 5",1,1,"F","Marié",2,54
+"10 et 15 ans",27,"Commercial","Oui",78,"CDI",35,"7k - 8k","35 - 40",1,0,"F","Célibataire",3,52
+"5 et 10 ans",68,"Consultant","Oui",89,"CDI",35,"7k - 8k","35 - 40",1,0,"H","Célibataire",2,39
+"15 et 20 ans",48,"Consultant","Non",50,"CDI",35,"5k - 6k","15 - 20",1,0,"F","Marié",1,39
+"20 et 25 ans",55,"RH","Non",78,"CDI",35,"8k - 9k","10 - 15",0,0,"H","Marié",0,44
+"10 et 15 ans",20,"Commercial","Oui",52,"CDI",35,"2k - 3k","20 - 25",0,0,"F",,1,42
+"20 et 25 ans",13,"Marketing","Oui",99,"CDI",35,"3k - 4k","0 - 5",1,0,"H",,0,46
+"5 et 10 ans",21,"Commercial","Oui",79,"CDI",35,"2k - 3k","20 - 25",0,1,"H","Marié",2,44
+"20 et 25 ans",12,"Consultant","Non",25,"CDI",35,"9k - 1k","0 - 5",1,1,"H","Marié",1,61
+"0 et 2 ans",9,"Marketing","Oui",96,"CDD",35,"3k - 4k","5 - 10",,,"F",,1,52
+"5 et 10 ans",43,"Consultant","Non",47,"CDI",35,"1k - 2k","15 - 20",1,1,"F",,2,55
+"15 et 20 ans",60,"Marketing","Oui",38,"CDI",35,"3k - 4k","30 - 35",1,1,"F",,2,46
+"5 et 10 ans",65,"Marketing","Oui",1,"CDI",24,"5k - 6k","30 - 35",1,0,"F",,0,56
+"0 et 2 ans",8,"Compta Finances","Oui",45,"CDD",35,"3k - 4k","35 - 40",,,"F","Célibataire",1,33
+"5 et 10 ans",6,"RH","Non",90,"CDI",35,"3k - 4k","25 - 30",1,0,"H","Marié",3,60
+"10 et 15 ans",66,"Consultant","Oui",46,"CDI",35,"4k - 5k","25 - 30",1,1,"F","Célibataire",0,46
+"20 et 25 ans",62,"Commercial","Non",17,"CDI",35,"5k - 6k","5 - 10",0,1,"H","Célibataire",3,52
+"5 et 10 ans",30,"Commercial","Oui",97,"CDI",35,"2k - 3k","30 - 35",1,1,"F","Marié",1,61
+"5 et 10 ans",28,"Consultant","Oui",39,"CDI",35,"6k - 7k","30 - 35",0,1,"F",,1,64
+"15 et 20 ans",23,"RH","Non",23,"CDI",35,"3k - 4k","25 - 30",1,0,"F","Marié",3,56
+"2 et 5 ans",67,"Consultant","Oui",81,"CDI",35,"1k - 2k","5 - 10",1,0,"H","Célibataire",3,38
+"10 et 15 ans",16,"RH","Oui",84,"CDI",35,"7k - 8k","30 - 35",1,0,"H","Marié",3,60
+"2 et 5 ans",65,"Marketing","Oui",40,"CDI",35,"2k - 3k","35 - 40",0,1,"F","Célibataire",2,62
+"5 et 10 ans",38,"Consultant","Non",80,"CDI",35,"6k - 7k","20 - 25",0,1,"H",,2,60
+"15 et 20 ans",23,"Compta Finances","Non",44,"CDI",35,"1k - 2k","20 - 25",1,1,"H",,3,57
+"15 et 20 ans",45,"Commercial","Non",21,"CDI",35,"6k - 7k","15 - 20",0,1,"F","Marié",3,41
+"5 et 10 ans",7,"Consultant","Oui",33,"CDI",24,"4k - 5k","15 - 20",0,1,"H",,0,37
+"20 et 25 ans",9,"RH","Non",39,"CDI",35,"3k - 4k","30 - 35",0,0,"H",,1,49
+"10 et 15 ans",43,"Consultant","Non",1,"CDI",35,"3k - 4k","35 - 40",1,0,"F","Célibataire",2,43
+"10 et 15 ans",42,"Commercial","Non",98,"CDI",35,"2k - 3k","35 - 40",1,1,"F","Célibataire",2,45
+"10 et 15 ans",16,"Compta Finances","Non",68,"CDI",24,"1k - 2k","0 - 5",0,1,"F","Marié",1,41
+"10 et 15 ans",21,"Commercial","Oui",42,"CDI",35,"7k - 8k","30 - 35",1,0,"H","Célibataire",2,52
+"5 et 10 ans",34,"Compta Finances","Non",42,"CDI",35,"8k - 9k","10 - 15",0,0,"F",,3,45
+"20 et 25 ans",37,"Marketing","Non",74,"CDI",35,"4k - 5k","25 - 30",0,1,"F","Marié",1,49
+"15 et 20 ans",48,"Commercial","Oui",40,"CDI",35,"9k - 1k","25 - 30",0,1,"H","Célibataire",1,42
+"10 et 15 ans",8,"Compta Finances","Non",28,"CDI",35,"4k - 5k","5 - 10",1,1,"H","Célibataire",3,58
+"10 et 15 ans",11,"Consultant","Non",69,"CDI",35,"2k - 3k","0 - 5",0,0,"H","Marié",1,53
+"20 et 25 ans",55,"RH","Oui",87,"CDI",35,"8k - 9k","5 - 10",0,0,"H","Marié",2,49
+"20 et 25 ans",37,"Compta Finances","Non",52,"CDI",35,"4k - 5k","5 - 10",0,0,"H",,0,56
+"5 et 10 ans",65,"Consultant","Oui",5,"CDI",28,"7k - 8k","5 - 10",1,1,"H","Marié",2,56
+"10 et 15 ans",41,"Marketing","Non",32,"CDI",35,"1k - 2k","20 - 25",1,0,"H","Marié",0,34
+"20 et 25 ans",29,"Commercial","Oui",39,"CDI",35,"7k - 8k","0 - 5",1,1,"H","Célibataire",1,55
+"20 et 25 ans",67,"R&D","Oui",4,"CDI",35,"6k - 7k","35 - 40",0,1,"H",,1,65
+"10 et 15 ans",54,"Compta Finances","Oui",96,"CDI",35,"8k - 9k","35 - 40",0,1,"F",,0,59
+"5 et 10 ans",29,"Commercial","Oui",14,"CDI",35,"8k - 9k","15 - 20",0,1,"H",,0,41
+"10 et 15 ans",56,"Commercial","Non",13,"CDI",35,"9k - 1k","0 - 5",1,0,"F","Marié",0,47
+"20 et 25 ans",47,"Commercial","Non",95,"CDI",35,"3k - 4k","30 - 35",0,0,"H","Marié",1,44
+"20 et 25 ans",4,"Marketing","Non",45,"CDI",35,"9k - 1k","20 - 25",0,0,"H","Marié",0,47
+"20 et 25 ans",14,"Consultant","Oui",66,"CDI",35,"2k - 3k","10 - 15",1,0,"H",,1,63
+"20 et 25 ans",35,"Commercial","Non",47,"CDI",35,"6k - 7k","10 - 15",1,0,"F","Marié",2,52
+"20 et 25 ans",58,"Marketing","Non",29,"CDI",35,"4k - 5k","30 - 35",0,0,"F","Célibataire",3,54
+"10 et 15 ans",16,"RH","Oui",58,"CDI",35,"9k - 1k","25 - 30",1,0,"H",,3,38
+"0 et 2 ans",6,"Compta Finances","Non",84,"CDD",35,"2k - 3k","35 - 40",,,"F",,1,63
+"15 et 20 ans",69,"Compta Finances","Non",48,"CDI",35,"4k - 5k","30 - 35",0,0,"H","Célibataire",0,60
+"15 et 20 ans",38,"Commercial","Non",44,"CDI",35,"8k - 9k","0 - 5",0,0,"F","Célibataire",0,53
+"20 et 25 ans",39,"R&D","Oui",32,"CDI",35,"4k - 5k","5 - 10",0,1,"F","Célibataire",2,62
+"20 et 25 ans",64,"RH","Oui",11,"CDI",24,"4k - 5k","10 - 15",0,0,"F","Marié",0,43
+"5 et 10 ans",23,"Marketing","Non",37,"CDI",35,"5k - 6k","30 - 35",0,0,"H","Marié",3,49
+"20 et 25 ans",55,"Commercial","Non",77,"CDI",35,"7k - 8k","5 - 10",1,0,"F","Marié",0,48
+"10 et 15 ans",68,"RH","Oui",69,"CDI",35,"8k - 9k","35 - 40",0,0,"F",,1,39
+"20 et 25 ans",45,"Commercial","Oui",7,"CDI",35,"6k - 7k","30 - 35",0,0,"H",,0,44
+"15 et 20 ans",55,"Marketing","Oui",51,"CDI",35,"4k - 5k","35 - 40",1,0,"F","Célibataire",1,55
+"10 et 15 ans",26,"Compta Finances","Oui",78,"CDI",35,"9k - 1k","30 - 35",0,1,"H","Célibataire",0,53
+"10 et 15 ans",35,"Marketing","Non",92,"CDI",35,"4k - 5k","15 - 20",0,0,"H","Marié",1,45
+"10 et 15 ans",34,"Compta Finances","Oui",40,"CDI",35,"2k - 3k","5 - 10",1,1,"F","Marié",0,54
+"10 et 15 ans",44,"Consultant","Non",37,"CDI",24,"2k - 3k","10 - 15",0,1,"H",,2,66
+"15 et 20 ans",26,"Commercial","Oui",48,"CDI",35,"9k - 1k","5 - 10",0,0,"H",,1,53
+"10 et 15 ans",33,"Consultant","Oui",82,"CDI",35,"4k - 5k","10 - 15",0,1,"F","Marié",0,68
+"20 et 25 ans",31,"Marketing","Oui",75,"CDI",35,"8k - 9k","10 - 15",0,0,"F",,1,55
+"0 et 2 ans",42,"Marketing","Non",25,"CDD",35,"3k - 4k","20 - 25",,,"H","Marié",2,46
+"5 et 10 ans",22,"RH","Non",77,"CDI",35,"5k - 6k","10 - 15",0,1,"F","Célibataire",3,55
+"0 et 2 ans",12,"Consultant","Non",100,"CDD",32,"2k - 3k","10 - 15",,,"H","Célibataire",1,56
+"15 et 20 ans",28,"Commercial","Oui",42,"CDI",35,"3k - 4k","30 - 35",1,0,"F","Marié",1,42
+"2 et 5 ans",3,"Consultant","Non",2,"CDI",35,"4k - 5k","30 - 35",1,1,"H","Marié",3,57
+"20 et 25 ans",28,"RH","Non",63,"CDI",35,"7k - 8k","35 - 40",1,0,"F",,3,52
+"5 et 10 ans",63,"Consultant","Non",50,"CDI",35,"4k - 5k","10 - 15",1,0,"H","Marié",3,43
+"20 et 25 ans",62,"Consultant","Non",34,"CDI",35,"4k - 5k","20 - 25",0,0,"H","Célibataire",0,46
+"5 et 10 ans",13,"Marketing","Non",25,"CDI",35,"3k - 4k","30 - 35",0,0,"F","Marié",3,60
+"20 et 25 ans",65,"Consultant","Oui",63,"CDI",35,"6k - 7k","15 - 20",0,0,"F","Célibataire",1,66
+"5 et 10 ans",60,"Compta Finances","Oui",26,"CDI",35,"8k - 9k","35 - 40",0,1,"H",,3,66
+"20 et 25 ans",5,"Consultant","Non",59,"CDI",35,"2k - 3k","25 - 30",0,1,"F","Célibataire",2,49
+"5 et 10 ans",35,"Consultant","Non",62,"CDI",28,"5k - 6k","10 - 15",1,0,"H","Marié",0,49
+"5 et 10 ans",70,"RH","Oui",86,"CDI",35,"7k - 8k","25 - 30",0,1,"H","Marié",2,42
+"10 et 15 ans",46,"RH","Non",49,"CDI",35,"3k - 4k","0 - 5",0,1,"H","Marié",1,38
+"10 et 15 ans",13,"RH","Oui",99,"CDI",35,"3k - 4k","25 - 30",0,1,"F","Célibataire",3,61
+"5 et 10 ans",5,"Compta Finances","Non",84,"CDI",35,"9k - 1k","0 - 5",1,0,"F","Marié",1,63
+"15 et 20 ans",7,"Consultant","Oui",8,"CDI",35,"5k - 6k","5 - 10",0,1,"H","Célibataire",3,58
+"20 et 25 ans",57,"Commercial","Oui",44,"CDI",35,"8k - 9k","15 - 20",1,0,"H","Célibataire",2,58
+"5 et 10 ans",61,"Consultant","Oui",94,"CDI",35,"5k - 6k","35 - 40",1,0,"H",,1,45
+"15 et 20 ans",36,"Marketing","Non",37,"CDI",35,"4k - 5k","10 - 15",0,1,"H","Marié",1,63
+"20 et 25 ans",55,"RH","Oui",95,"CDI",35,"5k - 6k","20 - 25",0,1,"H","Marié",3,62
+"20 et 25 ans",52,"RH","Oui",29,"CDI",35,"3k - 4k","20 - 25",0,0,"F",,1,57
+"20 et 25 ans",49,"RH","Non",47,"CDI",24,"2k - 3k","25 - 30",0,1,"H","Célibataire",0,62
+"10 et 15 ans",44,"Marketing","Oui",73,"CDI",35,"4k - 5k","5 - 10",1,0,"F","Marié",2,45
+"20 et 25 ans",60,"R&D","Oui",54,"CDI",35,"7k - 8k","5 - 10",1,1,"H","Marié",3,48
+"10 et 15 ans",18,"Commercial","Non",84,"CDI",35,"8k - 9k","15 - 20",0,1,"F","Célibataire",3,39
+"2 et 5 ans",61,"Compta Finances","Non",44,"CDI",35,"2k - 3k","35 - 40",0,0,"F",,1,34
+"2 et 5 ans",33,"Compta Finances","Non",14,"CDI",35,"4k - 5k","30 - 35",1,1,"F",,2,38
+"20 et 25 ans",53,"Commercial","Non",61,"CDI",35,"3k - 4k","5 - 10",1,1,"F","Marié",3,64
+"5 et 10 ans",46,"Compta Finances","Non",31,"CDI",35,"1k - 2k","5 - 10",1,1,"H","Célibataire",2,46
+"20 et 25 ans",9,"Commercial","Oui",86,"CDI",35,"2k - 3k","20 - 25",0,0,"H","Célibataire",3,57
+"20 et 25 ans",48,"R&D","Oui",57,"CDI",24,"6k - 7k","15 - 20",0,0,"H",,2,55
+"20 et 25 ans",59,"Compta Finances","Oui",6,"CDI",32,"6k - 7k","0 - 5",0,0,"F","Marié",3,48
+"5 et 10 ans",45,"Commercial","Oui",1,"CDI",24,"4k - 5k","15 - 20",1,1,"F","Marié",0,58
+"20 et 25 ans",22,"Commercial","Non",15,"CDI",35,"5k - 6k","35 - 40",0,0,"H","Marié",3,44
+"10 et 15 ans",50,"Commercial","Oui",15,"CDI",35,"9k - 1k","20 - 25",1,0,"F",,1,41
+"2 et 5 ans",53,"Commercial","Non",58,"CDI",35,"2k - 3k","30 - 35",0,0,"F",,1,65
+"15 et 20 ans",34,"RH","Non",55,"CDI",35,"5k - 6k","35 - 40",1,0,"F","Célibataire",0,60
+"10 et 15 ans",31,"Commercial","Oui",31,"CDI",35,"7k - 8k","20 - 25",1,0,"H","Marié",3,60
+"20 et 25 ans",43,"R&D","Non",41,"CDI",24,"4k - 5k","10 - 15",0,1,"H","Marié",2,63
+"15 et 20 ans",69,"RH","Non",47,"CDI",35,"7k - 8k","5 - 10",0,0,"F","Marié",0,50
+"5 et 10 ans",57,"Compta Finances","Oui",4,"CDI",35,"4k - 5k","35 - 40",1,1,"F","Célibataire",0,56
+"10 et 15 ans",6,"Commercial","Non",52,"CDI",35,"9k - 1k","35 - 40",1,1,"H",,0,60
+"15 et 20 ans",41,"Marketing","Oui",69,"CDI",35,"3k - 4k","30 - 35",0,1,"H",,1,68
+"0 et 2 ans",59,"Consultant","Non",59,"CDD",35,"2k - 3k","20 - 25",,,"H","Marié",2,44
+"5 et 10 ans",59,"Consultant","Oui",72,"CDI",35,"6k - 7k","20 - 25",1,0,"F",,3,51
+"5 et 10 ans",24,"Consultant","Non",87,"CDI",35,"1k - 2k","35 - 40",1,0,"F",,3,53
+"5 et 10 ans",58,"Consultant","Non",92,"CDI",35,"2k - 3k","15 - 20",0,1,"F","Célibataire",1,43
+"10 et 15 ans",68,"Marketing","Non",59,"CDI",35,"7k - 8k","25 - 30",0,0,"H","Marié",3,42
+"5 et 10 ans",28,"R&D","Oui",77,"CDI",35,"9k - 1k","5 - 10",1,0,"H","Marié",2,54
+"5 et 10 ans",67,"Compta Finances","Non",66,"CDI",35,"7k - 8k","5 - 10",1,1,"H",,2,67
+"2 et 5 ans",43,"RH","Non",20,"CDI",35,"5k - 6k","30 - 35",0,0,"F","Marié",0,59
+"10 et 15 ans",44,"Marketing","Non",40,"CDI",35,"1k - 2k","15 - 20",0,1,"F","Marié",1,39
+"2 et 5 ans",39,"R&D","Oui",32,"CDI",35,"5k - 6k","10 - 15",0,0,"H",,0,56
+"15 et 20 ans",68,"Compta Finances","Oui",25,"CDI",35,"8k - 9k","25 - 30",1,0,"F","Marié",0,49
+"5 et 10 ans",28,"Consultant","Oui",13,"CDI",35,"3k - 4k","30 - 35",0,0,"H",,2,64
+"5 et 10 ans",20,"Marketing","Oui",69,"CDI",35,"9k - 1k","0 - 5",0,0,"F","Célibataire",1,48
+"5 et 10 ans",3,"Commercial","Non",63,"CDI",35,"2k - 3k","20 - 25",0,0,"F","Célibataire",3,59
+"15 et 20 ans",13,"RH","Non",3,"CDI",35,"9k - 1k","15 - 20",0,0,"H","Célibataire",0,60
+"5 et 10 ans",68,"RH","Oui",32,"CDI",35,"9k - 1k","15 - 20",1,0,"H","Célibataire",2,48
+"20 et 25 ans",44,"Compta Finances","Oui",47,"CDI",24,"3k - 4k","5 - 10",1,1,"F","Marié",1,58
+"5 et 10 ans",59,"Compta Finances","Non",93,"CDI",35,"4k - 5k","10 - 15",0,1,"F",,0,42
+"15 et 20 ans",50,"Consultant","Oui",99,"CDI",35,"6k - 7k","30 - 35",0,1,"H","Marié",0,58
+"10 et 15 ans",4,"Consultant","Oui",42,"CDI",35,"2k - 3k","0 - 5",1,0,"H","Célibataire",0,52
+"5 et 10 ans",29,"Consultant","Non",68,"CDI",35,"6k - 7k","10 - 15",1,0,"H",,0,55
+"20 et 25 ans",62,"Consultant","Oui",60,"CDI",35,"4k - 5k","35 - 40",1,1,"H",,0,48
+"15 et 20 ans",65,"Consultant","Oui",36,"CDI",35,"6k - 7k","0 - 5",1,1,"H","Célibataire",2,50
+"20 et 25 ans",44,"Consultant","Non",89,"CDI",35,"2k - 3k","35 - 40",1,1,"H","Célibataire",0,53
+"15 et 20 ans",35,"Commercial","Oui",74,"CDI",35,"6k - 7k","35 - 40",1,0,"H","Célibataire",2,51
+"15 et 20 ans",41,"Consultant","Oui",68,"CDI",35,"2k - 3k","10 - 15",0,0,"H","Marié",0,42
+"15 et 20 ans",47,"RH","Oui",98,"CDI",24,"2k - 3k","15 - 20",1,1,"F",,2,53
+"2 et 5 ans",42,"Consultant","Oui",60,"CDI",35,"2k - 3k","20 - 25",1,0,"H",,0,60
+"10 et 15 ans",53,"Compta Finances","Non",55,"CDI",35,"7k - 8k","15 - 20",1,1,"F",,0,48
+"5 et 10 ans",12,"R&D","Oui",30,"CDI",35,"6k - 7k","0 - 5",0,0,"H",,0,46
+"15 et 20 ans",19,"RH","Non",15,"CDI",35,"3k - 4k","15 - 20",1,1,"F","Célibataire",2,61
+"10 et 15 ans",65,"Compta Finances","Non",94,"CDI",35,"6k - 7k","0 - 5",1,0,"F","Marié",3,56
+"5 et 10 ans",61,"Consultant","Non",24,"CDI",35,"2k - 3k","15 - 20",1,0,"H","Célibataire",3,68
+"2 et 5 ans",51,"Commercial","Oui",3,"CDI",35,"6k - 7k","5 - 10",1,0,"F","Marié",2,52
+"2 et 5 ans",6,"Commercial","Non",41,"CDI",35,"6k - 7k","5 - 10",0,0,"F","Célibataire",3,37
+"20 et 25 ans",30,"Consultant","Non",51,"CDI",35,"5k - 6k","5 - 10",1,1,"F",,1,59
+"15 et 20 ans",69,"Commercial","Oui",41,"CDI",35,"5k - 6k","15 - 20",1,0,"H",,3,38
+"10 et 15 ans",19,"Marketing","Oui",89,"CDI",35,"8k - 9k","30 - 35",1,0,"H","Marié",3,66
+"10 et 15 ans",63,"Commercial","Oui",81,"CDI",35,"9k - 1k","15 - 20",1,1,"F",,3,53
+"10 et 15 ans",51,"Commercial","Non",19,"CDI",35,"5k - 6k","15 - 20",0,0,"H","Marié",0,60
+"15 et 20 ans",47,"Compta Finances","Non",53,"CDI",35,"7k - 8k","25 - 30",0,1,"F","Célibataire",0,39
+"10 et 15 ans",11,"Compta Finances","Oui",44,"CDI",35,"3k - 4k","25 - 30",1,1,"H","Marié",0,43
+"15 et 20 ans",49,"Compta Finances","Non",100,"CDI",24,"5k - 6k","15 - 20",1,1,"H","Célibataire",3,42
+"5 et 10 ans",5,"RH","Non",62,"CDI",35,"8k - 9k","15 - 20",0,1,"F","Célibataire",3,42
+"5 et 10 ans",27,"RH","Oui",42,"CDI",35,"7k - 8k","20 - 25",1,1,"F",,1,42
+"0 et 2 ans",14,"Consultant","Non",81,"CDD",35,"2k - 3k","0 - 5",,,"F",,3,39
+"5 et 10 ans",48,"Marketing","Non",17,"CDI",28,"7k - 8k","30 - 35",1,1,"H","Célibataire",2,36
+"15 et 20 ans",30,"RH","Non",73,"CDI",24,"3k - 4k","5 - 10",0,1,"F","Marié",2,57
+"10 et 15 ans",38,"Consultant","Oui",25,"CDI",35,"3k - 4k","30 - 35",0,0,"F","Célibataire",1,61
+"5 et 10 ans",46,"Consultant","Non",7,"CDI",35,"9k - 1k","15 - 20",1,1,"F","Célibataire",3,58
+"0 et 2 ans",31,"Compta Finances","Non",18,"CDD",35,"1k - 2k","15 - 20",,,"F","Marié",3,38
+"15 et 20 ans",62,"Compta Finances","Non",96,"CDI",35,"7k - 8k","20 - 25",1,0,"H",,2,50
+"10 et 15 ans",17,"Consultant","Non",9,"CDI",28,"2k - 3k","5 - 10",1,1,"H","Célibataire",3,61
+"20 et 25 ans",28,"Marketing","Non",54,"CDI",35,"7k - 8k","35 - 40",1,1,"H",,0,49
+"20 et 25 ans",61,"Compta Finances","Oui",70,"CDI",35,"2k - 3k","30 - 35",1,0,"H","Marié",0,67
+"15 et 20 ans",16,"RH","Non",30,"CDI",35,"5k - 6k","35 - 40",0,1,"F","Marié",3,68
+"20 et 25 ans",70,"Commercial","Oui",38,"CDI",35,"6k - 7k","15 - 20",1,1,"F","Célibataire",2,54
+"5 et 10 ans",7,"RH","Non",35,"CDI",24,"4k - 5k","5 - 10",1,1,"F","Marié",1,67
+"20 et 25 ans",40,"Consultant","Non",9,"CDI",35,"9k - 1k","20 - 25",1,0,"F","Marié",1,57
+"20 et 25 ans",49,"Commercial","Oui",31,"CDI",35,"5k - 6k","10 - 15",1,1,"F",,0,48
+"15 et 20 ans",23,"Commercial","Oui",54,"CDI",35,"8k - 9k","35 - 40",1,0,"F",,1,53
+"5 et 10 ans",23,"Consultant","Non",69,"CDI",35,"9k - 1k","35 - 40",0,1,"F","Célibataire",0,50
+"10 et 15 ans",36,"Commercial","Non",62,"CDI",35,"1k - 2k","30 - 35",1,0,"H","Célibataire",2,52
+"5 et 10 ans",34,"RH","Oui",84,"CDI",35,"7k - 8k","20 - 25",1,0,"F",,1,56
+"5 et 10 ans",59,"Consultant","Non",34,"CDI",35,"7k - 8k","15 - 20",1,0,"F","Marié",0,44
+"10 et 15 ans",59,"Compta Finances","Non",60,"CDI",35,"8k - 9k","10 - 15",1,0,"F","Célibataire",1,41
+"10 et 15 ans",65,"RH","Non",59,"CDI",32,"8k - 9k","15 - 20",1,1,"F","Célibataire",3,49
+"10 et 15 ans",31,"Commercial","Oui",66,"CDI",24,"4k - 5k","30 - 35",0,1,"F","Célibataire",2,66
+"10 et 15 ans",59,"Marketing","Non",67,"CDI",35,"6k - 7k","10 - 15",1,1,"F",,2,64
