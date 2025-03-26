@@ -1,78 +1,75 @@
-# OPC_DATA_ANALYST_PROJET7
-Analysez des indicateurs de l'égalité femme-homme avec Knime
-
 # Diagnostic Égalité Femmes-Hommes - Cabinet de Consultant en Transformation Digitale
 
-## Contexte
+## 📌 Contexte professionnel
 
-Je suis Data Analyst dans un cabinet de consultant spécialisé dans la transformation digitale des entreprises. Le cabinet, en pleine croissance, souhaite attirer des talents et améliorer sa marque employeur en adoptant une politique proactive en matière d’égalité femmes-hommes. Dans ce cadre, chaque année, il est nécessaire de publier un index de l’égalité femmes-hommes sur le site de l’entreprise avant le 1er mars, conformément à la réglementation.
+Dans le cadre de ma mission en tant que **Data Analyst** dans un **cabinet de conseil spécialisé dans la transformation digitale**, j’ai été chargé de contribuer à l’amélioration de la marque employeur à travers l’analyse des données liées à l’égalité professionnelle entre les femmes et les hommes.
 
-Laura, la directrice des ressources humaines, m'a confié la mission d’aider Vincent, le contrôleur de gestion sociale, à automatiser la création d’un rapport diagnostique sur l’égalité professionnelle femmes-hommes.
+À la demande de **Laura (Directrice RH)** et **Vincent (Contrôleur de gestion sociale)**, j’ai mis en place un processus d’analyse automatisé, destiné à produire un **rapport diagnostic annuel**, obligatoire pour publication avant le 1er mars selon la réglementation française.
 
-## Objectifs du Projet
+## 🎯 Objectifs de la mission
 
-1. **Création d’un Workflow KNIME** : Automatiser le processus de création des graphiques pour le diagnostic en utilisant **KNIME**. Ce workflow doit être capable de générer des graphiques pour au moins 5 indicateurs clés de l’égalité professionnelle femmes-hommes, conformément aux recommandations du ministère du Travail.
-   
-2. **Préparation d’un Fichier CSV pour Tableau** : Transformer les données en un fichier `.csv` anonymisé, prêt à être utilisé dans **Tableau Software** pour de futures analyses.
+1. Automatiser la génération des graphiques liés à **l’égalité femmes-hommes** à l’aide de **KNIME**
+2. Anonymiser les données issues du **SIRH** pour respecter le **RGPD**
+3. Fournir un fichier `.csv` exploitable dans **Tableau Software** pour des analyses futures
 
-3. **Respect des Normes RGPD** : Anonymiser les données issues du **Système d’Informations des Ressources Humaines (SIRH)** pour s’assurer de la conformité avec le RGPD.
+## 🧩 Étapes de réalisation
 
-## Étapes du Projet
+### 1. Sélection des indicateurs clés
 
-### Étape 1 : Sélection des Indicateurs Clés
-
-- **Objectif** : Choisir au minimum 5 indicateurs parmi ceux recommandés dans le document de présentation de l’outil Diagnostic Égalité, fourni par le ministère du Travail.
-- **Indicateurs potentiels** :
-  - Écart de rémunération entre les femmes et les hommes
-  - Répartition des augmentations de salaire
+- Choix de **5 indicateurs réglementaires** issus des recommandations du Ministère du Travail :
+  - Écart de rémunération femmes-hommes
+  - Répartition des augmentations
   - Répartition des promotions
-  - Part des femmes et des hommes dans les 10 plus hautes rémunérations
-  - Écart de taux de promotion
-- **Résultat** : Ces indicateurs seront utilisés dans le workflow pour générer des graphiques.
+  - Taux de promotion par sexe
+  - Part des femmes dans les plus hautes rémunérations
 
-### Étape 2 : Création du Workflow KNIME
+### 2. Création du workflow KNIME
 
-- **Objectif** : Construire un workflow dans **KNIME** pour générer automatiquement les graphiques des indicateurs sélectionnés.
-- **Détails** :
-  - Importer les données issues du SIRH.
-  - Anonymiser les données sensibles pour respecter le RGPD.
-  - Créer des visualisations pour chaque indicateur sélectionné.
-  - Exporter les visualisations pour inclusion dans le rapport diagnostique.
-- **Livrable** : Un workflow KNIME qui produit les graphiques du diagnostic.
+- Importation des données SIRH (`donnees_sirh.zip`)
+- **Anonymisation des données** pour conformité RGPD
+- Génération automatique de visualisations (graphiques) pour les indicateurs sélectionnés
+- Export des graphiques pour intégration dans le **rapport diagnostic**
 
-### Étape 3 : Préparation du Fichier CSV pour Tableau
+### 3. Préparation du fichier pour Tableau
 
-- **Objectif** : Préparer un fichier `.csv` anonymisé des données pour une utilisation future dans Tableau Software.
-- **Détails** :
-  - Structurer le fichier `.csv` pour qu'il soit compatible avec Tableau.
-  - Assurer que les informations sensibles sont anonymisées.
-  - Inclure les indicateurs sélectionnés dans le fichier.
-- **Livrable** : Un fichier `.csv` prêt pour Tableau, contenant les indicateurs clés.
+- Structuration des données anonymisées dans un **fichier `.csv` compatible Tableau**
+- Vérification de l’intégrité des indicateurs dans le format final
+- Livraison d’un fichier prêt à être utilisé dans de futurs dashboards RH
 
-### Étape 4 : Présentation du Workflow et des Résultats
+### 4. Présentation des résultats
 
-- **Objectif** : Présenter le fonctionnement du workflow et les graphiques générés à Laura et Vincent.
-- **Détails** :
-  - Expliquer les étapes du workflow, y compris l’anonymisation des données.
-  - Montrer les graphiques pour les indicateurs sélectionnés et interpréter les résultats.
-- **Livrable** : Une présentation en direct de KNIME, ou un document contenant les résultats du workflow.
+- Démonstration du **workflow KNIME** à Laura et Vincent
+- Explication des étapes de traitement, d’anonymisation et des résultats visuels
+- Préparation d’un support de présentation (live ou documenté)
 
-## Détails Techniques
+## 📂 Livrables
 
-- **Fichiers** :
-  - `donnees_sirh.zip` : Contient les données issues du Système d’Informations des Ressources Humaines, non anonymisées.
-  - **Workflow KNIME** : Automatisation de la génération des graphiques de diagnostic.
-  - **Fichier CSV** : Fichier de données anonymisé, prêt à être utilisé dans Tableau Software.
+- **Workflow KNIME** automatisant le diagnostic
+- **Fichier `.csv` anonymisé** compatible avec Tableau Software
+- **Visualisations** des 5 indicateurs clés (prêtes à être utilisées dans un rapport)
+- **Support de présentation** du workflow et de ses résultats
 
-- **Outils Utilisés** :
-  - **KNIME** pour l’automatisation des analyses et des visualisations.
-  - **Tableau Software** pour les futures analyses de données.
+## 🛠️ Compétences mobilisées
 
-- **Compétences Utilisées** :
-  - Création de workflows automatisés pour le diagnostic de données.
-  - Anonymisation des données pour conformité RGPD.
-  - Préparation de données pour l’analyse dans Tableau.
+- Construction de **workflows automatisés** sous KNIME
+- **Visualisation de données RH**
+- **Anonymisation et conformité RGPD**
+- Préparation de données pour **BI tools** (Tableau)
+- Communication des résultats à des interlocuteurs non techniques
 
-## Résumé
+## ✅ Résultats et impact
 
-Ce projet m’a permis d’automatiser la création d’un diagnostic sur l’égalité femmes-hommes au sein du cabinet, en répondant aux normes légales et aux exigences du RGPD. Grâce au workflow KNIME, nous avons optimisé la génération des indicateurs nécessaires, ce qui facilitera le suivi annuel de ces données et contribuera à renforcer notre marque employeur.
+- Automatisation complète du diagnostic annuel sur l’égalité femmes-hommes
+- Réduction du temps de traitement pour les rapports RH
+- Mise en conformité avec les exigences réglementaires (obligation de publication)
+- Amélioration de la **marque employeur** et valorisation des engagements RH
+
+---
+
+## 🔍 Aperçu
+
+> Ce projet met en avant mes compétences en **automatisation de reporting**, en **analyse RH**, et en **conformité réglementaire** dans un cadre professionnel structuré et collaboratif.
+
+---
+
+*Mission réalisée dans un cadre professionnel simulé, avec des responsabilités équivalentes à celles d’un Data Analyst en cabinet de conseil.*
